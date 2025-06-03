@@ -98,7 +98,7 @@ Include visuals from each section such as:
 ![Medal Tally](ss/s1.png)
 * Overall analysis graphs
 ![Overall Analysis](ss/s2.png)
-![Overall Analysis](ss/s3.png)
+![No Participation](ss/s3.png)
 * Country-wise medal tally
 ![Country-wise Medal Tally](ss/s4.png)
 * Athlete-wise age distribution
